@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sZTP.WebApi", "sZTP.WebApi\sZTP.WebApi.csproj", "{0A637E24-3FA7-4645-A320-70FCD3361872}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CertTestApp", "CertTestApp\CertTestApp.csproj", "{19A34816-CAB9-426B-8604-C778FEA4905B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A637E24-3FA7-4645-A320-70FCD3361872}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A637E24-3FA7-4645-A320-70FCD3361872}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A637E24-3FA7-4645-A320-70FCD3361872}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A637E24-3FA7-4645-A320-70FCD3361872}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19A34816-CAB9-426B-8604-C778FEA4905B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19A34816-CAB9-426B-8604-C778FEA4905B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19A34816-CAB9-426B-8604-C778FEA4905B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19A34816-CAB9-426B-8604-C778FEA4905B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40F89DE3-23E9-4E62-9B72-8F1A6F6EC69B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+C:\Users\sumittestvm\Desktop\Proj\sZTP\sZTP.WebApi\obj\Release\netcoreapp3.1\PubTmp\Out\sZTP.WebApi.exe
+C:\Users\sumittestvm\Desktop\Proj\sZTP\sZTP.WebApi\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Users\sumittestvm\Desktop\Proj\sZTP\sZTP.WebApi\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Users\sumittestvm\Desktop\Proj\sZTP\sZTP.WebApi\obj\Release\netcoreapp3.1\PubTmp\Out\sZTP.WebApi.dll
+C:\Users\sumittestvm\Desktop\Proj\sZTP\sZTP.WebApi\obj\Release\netcoreapp3.1\PubTmp\Out\sZTP.WebApi.deps.json
+C:\Users\sumittestvm\Desktop\Proj\sZTP\sZTP.WebApi\obj\Release\netcoreapp3.1\PubTmp\Out\sZTP.WebApi.runtimeconfig.json
+C:\Users\sumittestvm\Desktop\Proj\sZTP\sZTP.WebApi\obj\Release\netcoreapp3.1\PubTmp\Out\sZTP.WebApi.pdb
+C:\Users\sumittestvm\Desktop\Proj\sZTP\sZTP.WebApi\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.AspNetCore.Authentication.Certificate.dll

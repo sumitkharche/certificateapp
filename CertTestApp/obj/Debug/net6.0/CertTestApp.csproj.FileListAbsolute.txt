@@ -1,0 +1,17 @@
+C:\Users\sumittestvm\Desktop\Proj\sZTP\CertTestApp\bin\Debug\net6.0\CertTestApp.exe
+C:\Users\sumittestvm\Desktop\Proj\sZTP\CertTestApp\bin\Debug\net6.0\access.crt
+C:\Users\sumittestvm\Desktop\Proj\sZTP\CertTestApp\bin\Debug\net6.0\domain.crt
+C:\Users\sumittestvm\Desktop\Proj\sZTP\CertTestApp\bin\Debug\net6.0\CertTestApp.deps.json
+C:\Users\sumittestvm\Desktop\Proj\sZTP\CertTestApp\bin\Debug\net6.0\CertTestApp.runtimeconfig.json
+C:\Users\sumittestvm\Desktop\Proj\sZTP\CertTestApp\bin\Debug\net6.0\CertTestApp.dll
+C:\Users\sumittestvm\Desktop\Proj\sZTP\CertTestApp\bin\Debug\net6.0\CertTestApp.pdb
+C:\Users\sumittestvm\Desktop\Proj\sZTP\CertTestApp\obj\Debug\net6.0\CertTestApp.csproj.AssemblyReference.cache
+C:\Users\sumittestvm\Desktop\Proj\sZTP\CertTestApp\obj\Debug\net6.0\CertTestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sumittestvm\Desktop\Proj\sZTP\CertTestApp\obj\Debug\net6.0\CertTestApp.AssemblyInfoInputs.cache
+C:\Users\sumittestvm\Desktop\Proj\sZTP\CertTestApp\obj\Debug\net6.0\CertTestApp.AssemblyInfo.cs
+C:\Users\sumittestvm\Desktop\Proj\sZTP\CertTestApp\obj\Debug\net6.0\CertTestApp.csproj.CoreCompileInputs.cache
+C:\Users\sumittestvm\Desktop\Proj\sZTP\CertTestApp\obj\Debug\net6.0\CertTestApp.dll
+C:\Users\sumittestvm\Desktop\Proj\sZTP\CertTestApp\obj\Debug\net6.0\refint\CertTestApp.dll
+C:\Users\sumittestvm\Desktop\Proj\sZTP\CertTestApp\obj\Debug\net6.0\CertTestApp.pdb
+C:\Users\sumittestvm\Desktop\Proj\sZTP\CertTestApp\obj\Debug\net6.0\CertTestApp.genruntimeconfig.cache
+C:\Users\sumittestvm\Desktop\Proj\sZTP\CertTestApp\obj\Debug\net6.0\ref\CertTestApp.dll

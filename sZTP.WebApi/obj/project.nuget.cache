@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tBJjl2XrMzVwCB1Lbi7TKAZZqOH05JfjB01kTOjBH8kesi9fPb6q7nONZHX+pjvtRKQwYOmBbC/+KpTv3zy2+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sumittestvm\\Desktop\\Proj\\sZTP\\sZTP.WebApi\\sZTP.WebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sumittestvm\\.nuget\\packages\\microsoft.aspnetcore.authentication.certificate\\3.1.30\\microsoft.aspnetcore.authentication.certificate.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}
